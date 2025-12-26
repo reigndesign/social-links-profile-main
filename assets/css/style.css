@@ -86,7 +86,7 @@ body {
 }
 
 
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   .card {
     width: 80%;
     margin-top: 7%;
