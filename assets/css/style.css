@@ -85,6 +85,12 @@ body {
   color: #ffffff;
 }
 
+.card--items a:hover,
+.card--items a:active {
+  background-color: hsl(75, 94%, 57%);
+  color: #000000;
+}
+
 
 @media (max-width: 375px) {
   .card {
